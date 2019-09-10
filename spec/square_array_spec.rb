@@ -1,7 +1,7 @@
 describe '#square_array' do
   def square_array(numbers)
     result = []
-    for number each do
+    for numbers.each do
       result = 
     end
   end
