@@ -1,6 +1,8 @@
 describe '#square_array' do
   def square_array(numbers)
+    result = []
     for number each do
+      result = 
     end
   end
 
